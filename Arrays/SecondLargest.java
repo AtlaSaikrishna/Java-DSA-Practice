@@ -1,5 +1,6 @@
-package Arrays.General;
-import java.util.*;
+import java.util.Scanner;
+import java.util.Arrays;
+
 class SecondLargest{
     public static void seclargest(int arr[]){
             Arrays.sort(arr);
